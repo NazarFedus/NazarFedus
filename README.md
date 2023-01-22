@@ -15,9 +15,9 @@
 ![Node](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js&logoColor=5FA04E)
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=e34f26)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=1673b6)
-![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C&logoColor=6296CC)
+<!-- ![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C&logoColor=6296CC)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=6296CC)
+![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=6296CC) -->
 
 ### §You can find me here
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Nazarevuchh)
