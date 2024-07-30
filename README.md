@@ -2,10 +2,10 @@
 
 <h1 align="center"> Welcome to the page of Nazar Fedus </h1>
 
-#### Hello everyone. I am a programmer from Ukraine who wants to become a Frontend Developer. Ready for new challenges!
+#### Hello everyone. I am a Web Developer from Ukraine.
 
 - 🎓 I study at LPNU. Specialization: **Computer Engineering**.
-- 🧑‍💻 **Frontend Developer**.
+- 🧑‍💻 **Software Engineer**.
 - 📧 Work email: **nazarfedus5@gmail.com**
 
 ### §Languages and Tools
