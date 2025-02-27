@@ -4,7 +4,6 @@
 
 #### Hello everyone. I am a Web Developer from Ukraine.
 
-- 🎓 I study at LPNU. Specialization: **Computer Engineering**.
 - 🧑‍💻 **Software Engineer**.
 - 📧 Work email: **nazarfedus5@gmail.com**
 
