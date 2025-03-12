@@ -1,7 +1,7 @@
 #### Hello everyone. I am a Web Developer from Ukraine.
 
 - 🧑‍💻 **Software Engineer**.
-- 📧 Work email: **nazarfedus5@gmail.com**
+- 📧 Work email: **nazar.work.fedus@gmail.com**
 
 ### §Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
