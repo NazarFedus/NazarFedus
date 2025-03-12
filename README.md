@@ -1,7 +1,3 @@
-<img align="center" src="https://github.com/NazarFedus/NazarFedus/blob/main/assets/Screenshot%202022-12-23%20at%2001.30.15.png">
-
-<h1 align="center"> Welcome to the page of Nazar Fedus </h1>
-
 #### Hello everyone. I am a Web Developer from Ukraine.
 
 - 🧑‍💻 **Software Engineer**.
